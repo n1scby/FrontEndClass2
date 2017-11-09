@@ -1,0 +1,5 @@
+header a, nav, nav li {float: left;}
+main {clear: both;}
+header {height: 160px;}
+nav {margin: 4rem 4rem 4rem 8rem;}
+main{margin: auto;}

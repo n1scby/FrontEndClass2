@@ -1,0 +1,19 @@
+header {background-color: rgb(114, 112, 112);}
+nav {background-color: rgb(53, 52, 52);}
+main section img {border-style: solid;
+                    border-color: lightgrey;
+                    border-width: 1 px;
+                    padding: 1rem;
+                    margin: 1rem;}
+
+nav ul {list-style: none;}
+nav a{color: white;}
+nav a:link {text-decoration: none;
+            color: white;
+            padding-right: 1rem;
+            }
+nav a:visited {color: lightpink;} 
+
+h1 {color: lightgrey;}
+
+nav a:hover{color: orange;}
