@@ -1,0 +1,16 @@
+header, footer{background-color: rgb(53, 117, 53);
+        text-align: center;
+        color: white;}
+
+nav{background-color: rgb(90, 197, 90);}
+
+nav a {color: white;
+    text-decoration: none;}
+
+nav ul {list-style: none;}
+
+nav {width: 15%;
+}
+main {width: 75%;
+  padding: 0rem 2rem 1rem 2rem;
+  }
