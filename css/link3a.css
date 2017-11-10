@@ -1,0 +1,8 @@
+header nav ul {list-style: none;}
+a:link{text-decoration: none;}
+body {background-color:beige;}
+main img {border-style: solid;
+          border-color: gray;
+          border-width: 2px;
+          padding: 1rem;
+          margin: 1rem;}
