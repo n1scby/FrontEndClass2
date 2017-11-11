@@ -1,8 +1,39 @@
 header nav ul {list-style: none;}
-a:link{text-decoration: none;}
-body {background-color:beige;}
+header a:link{text-decoration: none;
+            }
+header a {color: black;}
+header a:hover{color: white;}
+body {background-color:rgb(194, 194, 149);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
 main img {border-style: solid;
-          border-color: gray;
-          border-width: 2px;
-          padding: 1rem;
-          margin: 1rem;}
+          border-color: white;
+          border-width: 4px;
+          margin: .5rem;}
+
+header h1 {
+            font-size: 3rem;
+           margin: 00;
+           text-align: center;}
+
+header li {width: 100px;
+           height: 40px;
+           display: block;
+           margin: 0 2rem;
+           text-align: center;
+           padding: 14px 0 0 0;
+           border-radius: 10px;
+          }
+header li:hover{background-color: black;
+              }
+
+
+#logo {width: 100px;
+      margin: auto;}
+
+#pictures {margin: auto;
+           width: 82%}
+
+main h1 {font-size: 2 rem;
+         text-align: center;}
+
+footer {text-align: center;}

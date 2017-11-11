@@ -1,0 +1,12 @@
+header li{float: left;}
+main{clear: both;}
+nav{width: 82%;
+    height: 58px;
+    margin: auto;
+    margin-top: 2rem;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    background-color:rgb(233, 233, 181); }
+nav ul {margin: 0;
+        padding: 0;}
