@@ -1,0 +1,17 @@
+header nav ul, main #pictures {display: flex;
+                                align-items: center;
+                                justify-content: space-around;}
+nav{ width: 78%;
+     margin: auto;
+     background-color:rgb(233, 233, 181); 
+     border-style: solid;
+     border-color: white;
+     border-width: 4px;
+     margin-top: 1rem;
+     margin-bottom: 1rem;
+     }
+
+main #pictures{ width: 80%;
+                margin: auto;}
+
+nav {padding-left: 0;}
